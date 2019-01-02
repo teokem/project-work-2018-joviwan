@@ -1,0 +1,11 @@
+Experimental station, PETRA III: P08
+Method/Instrument, Kohzu 6-circle diffractometer
+Photon Energy, 9KeV
+Beam Spot, 2um
+Filling Mode, any
+EIGER X 1M, Yes
+MYTHEN, Yes
+CRL, Yes
+Optical microscope, Yes
+PILATUS 300K, Yes
+SFM operating in air, Yes
