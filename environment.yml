@@ -1,0 +1,13 @@
+name: xray_stm
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - ipywidgets
+  - notebook
+  - numpy
+  - openpyxl
+  - pandas
+  - pip
+  - xlrd
